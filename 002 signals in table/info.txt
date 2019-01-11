@@ -1,0 +1,1 @@
+signals in table - change value in cells or editline
