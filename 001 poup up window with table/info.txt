@@ -1,0 +1,4 @@
+- Main window with table and button. 
+- Buttom show popup window with list box (model). 
+- It is posible add remove items from list box.
+- Close window - send chosen items back to main window table
