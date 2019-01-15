@@ -1,0 +1,6 @@
+how to:
+add rows to table view
+remove rows
+block and unlock cells in QStandardItemWidget
+replace buttons 
+
