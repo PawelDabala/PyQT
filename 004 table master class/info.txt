@@ -1,0 +1,1 @@
+class to manage adding, removing, updeting rows in table view and database
